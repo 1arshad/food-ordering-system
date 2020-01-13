@@ -1,0 +1,10 @@
+D:\Arshad\food-ordering-system\food-ordering-system\bin\Debug\food-ordering-system.exe
+D:\Arshad\food-ordering-system\food-ordering-system\bin\Debug\food-ordering-system.pdb
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.Form1.resources
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.Properties.Resources.resources
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.csproj.GenerateResource.Cache
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.exe
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.pdb
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.Form1.en-IN.resources
+D:\Arshad\food-ordering-system\food-ordering-system\bin\Debug\en-IN\food-ordering-system.resources.dll
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\en-IN\food-ordering-system.resources.dll
