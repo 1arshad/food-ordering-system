@@ -8,3 +8,5 @@ D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.Form1.en-IN.resources
 D:\Arshad\food-ordering-system\food-ordering-system\bin\Debug\en-IN\food-ordering-system.resources.dll
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\en-IN\food-ordering-system.resources.dll
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.exe
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.pdb
