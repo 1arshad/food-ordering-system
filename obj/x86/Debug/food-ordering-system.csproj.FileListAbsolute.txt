@@ -10,3 +10,4 @@ D:\Arshad\food-ordering-system\food-ordering-system\bin\Debug\en-IN\food-orderin
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\en-IN\food-ordering-system.resources.dll
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.exe
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.pdb
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.csprojResolveAssemblyReference.cache
