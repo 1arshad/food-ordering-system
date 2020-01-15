@@ -274,7 +274,7 @@
     <value>NoControl</value>
   </data>
   <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>613, 47</value>
+    <value>513, 47</value>
   </data>
   <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>69, 19</value>
@@ -301,16 +301,16 @@
     <value>True</value>
   </data>
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>MS Reference Sans Serif, 26.25pt, style=Bold</value>
+    <value>Showcard Gothic, 21.75pt, style=Bold</value>
   </data>
   <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 29</value>
+    <value>5, 44</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>504, 44</value>
+    <value>388, 36</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -329,6 +329,39 @@
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>5</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="menuStrip1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="menuStrip1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Palatino Linotype, 12pt, style=Bold</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 43</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 30</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
@@ -351,8 +384,59 @@
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="foodToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 26</value>
+  </data>
+  <data name="foodToolStripMenuItem.Text" xml:space="preserve">
+    <value>FOOD</value>
+  </data>
+  <data name="vEGToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="vEGToolStripMenuItem.Text" xml:space="preserve">
+    <value>VEG</value>
+  </data>
+  <data name="nONVEGToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="nONVEGToolStripMenuItem.Text" xml:space="preserve">
+    <value>NON-VEG</value>
+  </data>
+  <data name="snacksToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="snacksToolStripMenuItem.Text" xml:space="preserve">
+    <value>SNACKS</value>
+  </data>
+  <data name="fASTFOODToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="fASTFOODToolStripMenuItem.Text" xml:space="preserve">
+    <value>FAST FOOD</value>
+  </data>
+  <data name="iCECREAMToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="iCECREAMToolStripMenuItem.Text" xml:space="preserve">
+    <value>ICE-CREAM</value>
+  </data>
+  <data name="mILKSHAKESToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="mILKSHAKESToolStripMenuItem.Text" xml:space="preserve">
+    <value>MILKSHAKES</value>
+  </data>
+  <data name="sALADSToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 26</value>
+  </data>
+  <data name="sALADSToolStripMenuItem.Text" xml:space="preserve">
+    <value>SALADS</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
@@ -368,6 +452,54 @@
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>homepage</value>
+  </data>
+  <data name="&gt;&gt;foodToolStripMenuItem.Name" xml:space="preserve">
+    <value>foodToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;foodToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vEGToolStripMenuItem.Name" xml:space="preserve">
+    <value>vEGToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vEGToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nONVEGToolStripMenuItem.Name" xml:space="preserve">
+    <value>nONVEGToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;nONVEGToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;snacksToolStripMenuItem.Name" xml:space="preserve">
+    <value>snacksToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;snacksToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fASTFOODToolStripMenuItem.Name" xml:space="preserve">
+    <value>fASTFOODToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;fASTFOODToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;iCECREAMToolStripMenuItem.Name" xml:space="preserve">
+    <value>iCECREAMToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;iCECREAMToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mILKSHAKESToolStripMenuItem.Name" xml:space="preserve">
+    <value>mILKSHAKESToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;mILKSHAKESToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sALADSToolStripMenuItem.Name" xml:space="preserve">
+    <value>sALADSToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;sALADSToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>

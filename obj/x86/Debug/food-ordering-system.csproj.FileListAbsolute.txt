@@ -13,3 +13,14 @@ C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.csprojResolveAssemblyReference.cache
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food.Form1.resources
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\Sign_Up.signup.resources
+C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\food-ordering-system.exe
+C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\food-ordering-system.pdb
+C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\en-IN\food-ordering-system.resources.dll
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.csprojResolveAssemblyReference.cache
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food_ordering_system.Form1.resources
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food.Form1.resources
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food_ordering_system.Properties.Resources.resources
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\Sign_Up.signup.resources
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food_ordering_system.Form1.en-IN.resources
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.csproj.GenerateResource.Cache
+C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\en-IN\food-ordering-system.resources.dll

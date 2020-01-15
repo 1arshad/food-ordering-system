@@ -62,5 +62,10 @@ namespace food_ordering_system
         {
 
         }
+
+        private void toolStripTextBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
