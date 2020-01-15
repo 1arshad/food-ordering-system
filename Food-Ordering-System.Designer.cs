@@ -37,7 +37,6 @@
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label1 = new System.Windows.Forms.Label();
 <<<<<<< HEAD
-<<<<<<< HEAD
             this.label2 = new System.Windows.Forms.Label();
 =======
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
@@ -50,15 +49,15 @@
             this.mILKSHAKESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sALADSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 >>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
-=======
->>>>>>> parent of 7ae1f79... 15
             this.panel1.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLightLight;
             resources.ApplyResources(this.panel2, "panel2");
+            this.panel2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.panel2.Name = "panel2";
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -71,6 +70,7 @@
             this.panel1.Controls.Add(this.linkLabel2);
             this.panel1.Controls.Add(this.linkLabel1);
             this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.menuStrip1);
             this.panel1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Name = "panel1";
@@ -121,7 +121,6 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Name = "label1";
             // 
-<<<<<<< HEAD
 <<<<<<< HEAD
             // label2
             // 
@@ -197,20 +196,21 @@
             resources.ApplyResources(this.sALADSToolStripMenuItem, "sALADSToolStripMenuItem");
 >>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
             // 
-=======
->>>>>>> parent of 7ae1f79... 15
             // Form1
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -225,7 +225,6 @@
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label1;
 <<<<<<< HEAD
-<<<<<<< HEAD
         private System.Windows.Forms.Label label2;
 =======
         private System.Windows.Forms.MenuStrip menuStrip1;
@@ -238,8 +237,6 @@
         private System.Windows.Forms.ToolStripMenuItem mILKSHAKESToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sALADSToolStripMenuItem;
 >>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
-=======
->>>>>>> parent of 7ae1f79... 15
 
 
 
