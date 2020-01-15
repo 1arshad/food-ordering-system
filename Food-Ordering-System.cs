@@ -62,6 +62,7 @@ namespace food_ordering_system
         {
             
         }
+<<<<<<< HEAD
 
         private void label2_Click_1(object sender, EventArgs e)
         {
@@ -72,5 +73,7 @@ namespace food_ordering_system
             f1.Closed += (s, args) => this.Close();
 
         }
+=======
+>>>>>>> parent of 7ae1f79... 15
     }
 }

@@ -36,7 +36,10 @@
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label1 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.label2 = new System.Windows.Forms.Label();
+=======
+>>>>>>> parent of 7ae1f79... 15
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,12 +109,15 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Name = "label1";
             // 
+<<<<<<< HEAD
             // label2
             // 
             resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
             this.label2.Click += new System.EventHandler(this.label2_Click_1);
             // 
+=======
+>>>>>>> parent of 7ae1f79... 15
             // Form1
             // 
             resources.ApplyResources(this, "$this");
@@ -137,7 +143,10 @@
         private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label1;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label2;
+=======
+>>>>>>> parent of 7ae1f79... 15
 
 
 
