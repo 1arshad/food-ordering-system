@@ -11,5 +11,5 @@ D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\en-IN\food-ord
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.exe
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.pdb
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food-ordering-system.csprojResolveAssemblyReference.cache
-D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food.Form1.resources
-D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\Sign_Up.signup.resources
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.login.resources
+D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_system.signup.resources
