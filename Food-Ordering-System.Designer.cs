@@ -46,6 +46,8 @@
             this.iCECREAMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mILKSHAKESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sALADSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -53,6 +55,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel2.Controls.Add(this.panel3);
             resources.ApplyResources(this.panel2, "panel2");
             this.panel2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.panel2.Name = "panel2";
@@ -194,6 +197,12 @@
             this.sALADSToolStripMenuItem.Name = "sALADSToolStripMenuItem";
             resources.ApplyResources(this.sALADSToolStripMenuItem, "sALADSToolStripMenuItem");
             // 
+            // panel3
+            // 
+            resources.ApplyResources(this.panel3, "panel3");
+            this.panel3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel3.Name = "panel3";
+            // 
             // Form1
             // 
             resources.ApplyResources(this, "$this");
@@ -205,6 +214,7 @@
             this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.panel2.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
@@ -232,6 +242,7 @@
         private System.Windows.Forms.ToolStripMenuItem iCECREAMToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mILKSHAKESToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sALADSToolStripMenuItem;
+        private System.Windows.Forms.Panel panel3;
 
 
 
