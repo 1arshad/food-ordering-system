@@ -72,10 +72,5 @@ namespace food_ordering_system
             f1.Closed += (s, args) => this.Close();
 
         }
-
-        private void toolStripTextBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

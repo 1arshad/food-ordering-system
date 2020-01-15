@@ -17,6 +17,7 @@ D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food_ordering_
 =======
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\food.Form1.resources
 D:\Arshad\food-ordering-system\food-ordering-system\obj\x86\Debug\Sign_Up.signup.resources
+<<<<<<< HEAD
 C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\food-ordering-system.exe
 C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\food-ordering-system.pdb
 C:\Users\MBA11\Documents\food-ordering-system\bin\Debug\en-IN\food-ordering-system.resources.dll
@@ -29,3 +30,5 @@ C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food_ordering_system
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\food-ordering-system.csproj.GenerateResource.Cache
 C:\Users\MBA11\Documents\food-ordering-system\obj\x86\Debug\en-IN\food-ordering-system.resources.dll
 >>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
+=======
+>>>>>>> parent of 7ae1f79... 15
