@@ -36,28 +36,14 @@
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label1 = new System.Windows.Forms.Label();
-<<<<<<< HEAD
             this.label2 = new System.Windows.Forms.Label();
-=======
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.foodToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.vEGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nONVEGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.snacksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.fASTFOODToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.iCECREAMToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mILKSHAKESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sALADSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
->>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
             this.panel1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLightLight;
             resources.ApplyResources(this.panel2, "panel2");
-            this.panel2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.panel2.Name = "panel2";
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -70,7 +56,6 @@
             this.panel1.Controls.Add(this.linkLabel2);
             this.panel1.Controls.Add(this.linkLabel1);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.menuStrip1);
             this.panel1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Name = "panel1";
@@ -121,80 +106,11 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Name = "label1";
             // 
-<<<<<<< HEAD
             // label2
             // 
             resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
             this.label2.Click += new System.EventHandler(this.label2_Click_1);
-=======
-            // menuStrip1
-            // 
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            resources.ApplyResources(this.menuStrip1, "menuStrip1");
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.foodToolStripMenuItem});
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
-            // 
-            // foodToolStripMenuItem
-            // 
-            this.foodToolStripMenuItem.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.foodToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.vEGToolStripMenuItem,
-            this.nONVEGToolStripMenuItem,
-            this.snacksToolStripMenuItem,
-            this.fASTFOODToolStripMenuItem,
-            this.iCECREAMToolStripMenuItem,
-            this.mILKSHAKESToolStripMenuItem,
-            this.sALADSToolStripMenuItem});
-            this.foodToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.foodToolStripMenuItem.Name = "foodToolStripMenuItem";
-            resources.ApplyResources(this.foodToolStripMenuItem, "foodToolStripMenuItem");
-            // 
-            // vEGToolStripMenuItem
-            // 
-            this.vEGToolStripMenuItem.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.vEGToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.vEGToolStripMenuItem.Name = "vEGToolStripMenuItem";
-            resources.ApplyResources(this.vEGToolStripMenuItem, "vEGToolStripMenuItem");
-            // 
-            // nONVEGToolStripMenuItem
-            // 
-            this.nONVEGToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.nONVEGToolStripMenuItem.Name = "nONVEGToolStripMenuItem";
-            resources.ApplyResources(this.nONVEGToolStripMenuItem, "nONVEGToolStripMenuItem");
-            // 
-            // snacksToolStripMenuItem
-            // 
-            this.snacksToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.snacksToolStripMenuItem.Name = "snacksToolStripMenuItem";
-            resources.ApplyResources(this.snacksToolStripMenuItem, "snacksToolStripMenuItem");
-            // 
-            // fASTFOODToolStripMenuItem
-            // 
-            this.fASTFOODToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.fASTFOODToolStripMenuItem.Name = "fASTFOODToolStripMenuItem";
-            resources.ApplyResources(this.fASTFOODToolStripMenuItem, "fASTFOODToolStripMenuItem");
-            // 
-            // iCECREAMToolStripMenuItem
-            // 
-            this.iCECREAMToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.iCECREAMToolStripMenuItem.Name = "iCECREAMToolStripMenuItem";
-            resources.ApplyResources(this.iCECREAMToolStripMenuItem, "iCECREAMToolStripMenuItem");
-            // 
-            // mILKSHAKESToolStripMenuItem
-            // 
-            this.mILKSHAKESToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.mILKSHAKESToolStripMenuItem.Name = "mILKSHAKESToolStripMenuItem";
-            resources.ApplyResources(this.mILKSHAKESToolStripMenuItem, "mILKSHAKESToolStripMenuItem");
-            // 
-            // sALADSToolStripMenuItem
-            // 
-            this.sALADSToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.sALADSToolStripMenuItem.Name = "sALADSToolStripMenuItem";
-            resources.ApplyResources(this.sALADSToolStripMenuItem, "sALADSToolStripMenuItem");
->>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
             // 
             // Form1
             // 
@@ -202,15 +118,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -224,19 +137,7 @@
         private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label1;
-<<<<<<< HEAD
         private System.Windows.Forms.Label label2;
-=======
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem foodToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem vEGToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem nONVEGToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem snacksToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem fASTFOODToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem iCECREAMToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem mILKSHAKESToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem sALADSToolStripMenuItem;
->>>>>>> 7ae1f79d4a86fb0b33a88d5fb9c737a68c65bcde
 
 
 
