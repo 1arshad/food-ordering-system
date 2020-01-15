@@ -60,20 +60,20 @@ namespace food_ordering_system
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            
-        }
-<<<<<<< HEAD
 
-        private void label2_Click_1(object sender, EventArgs e)
+        }
+
+
+        private void toolStripTextBox1_Click(object sender, EventArgs e)
         {
-            Form f1 = new food_ordering_system.login();
-            f1.Show();
-            linkLabel2.LinkVisited = true;
-            this.Hide();
-            f1.Closed += (s, args) => this.Close();
 
         }
-=======
->>>>>>> parent of 7ae1f79... 15
+
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
     }
 }
