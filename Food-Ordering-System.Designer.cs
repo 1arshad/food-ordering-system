@@ -47,9 +47,11 @@
             this.mILKSHAKESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sALADSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel2
@@ -199,9 +201,18 @@
             // 
             // panel3
             // 
+            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel3.Controls.Add(this.label2);
             resources.ApplyResources(this.panel3, "panel3");
-            this.panel3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel3.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.panel3.Name = "panel3";
+            // 
+            // label2
+            // 
+            resources.ApplyResources(this.label2, "label2");
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label2.Name = "label2";
             // 
             // Form1
             // 
@@ -219,6 +230,8 @@
             this.panel1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -243,6 +256,7 @@
         private System.Windows.Forms.ToolStripMenuItem mILKSHAKESToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sALADSToolStripMenuItem;
         private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Label label2;
 
 
 

@@ -8,23 +8,13 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace Sign_Up
+namespace food_ordering_system
 {
     public partial class signup : Form
     {
         public signup()
         {
             InitializeComponent();
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,11 +34,6 @@ namespace Sign_Up
             {
                 MessageBox.Show("There is some problem");
             }
-        }
-
-        private void signup_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
